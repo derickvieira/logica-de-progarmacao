@@ -1,4 +1,4 @@
-# logica-de-progarmacao
+# logica-de-progamacao
 Exercícios de logica de programação kgurweipgerhahuaehguhpebr
 portugol  é passado
 
